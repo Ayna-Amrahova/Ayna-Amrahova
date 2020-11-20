@@ -30,6 +30,6 @@ My name is Ayna Amrahova and I'm a Junior Software Developer based in Azerbaijan
 
 ![Ayna's github stats](https://github-readme-stats.vercel.app/api?username=Ayna-Amrahova&theme=vue-dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayna-Amrahova)](https://github.com/Ayna-Amrahova/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayna-Amrahova&theme=vue-dark&show_icons=true)](https://github.com/Ayna-Amrahova/github-readme-stats)
 
 
