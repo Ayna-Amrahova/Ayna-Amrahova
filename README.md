@@ -19,4 +19,10 @@ I'm always trying to grow and learn something new.
 
 
 Connect with me:
-<a class="icon-facebook social-button grey" href="https://www.facebook.com/ayna.amrahova.14/"></a>
+
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
+
+
+[1]: http://www.github.com/Ayna-Amrahova
+[2]: https://www.linkedin.com/in/your_contact_info
+[3]: https://www.facebook.com/your_contact_info
