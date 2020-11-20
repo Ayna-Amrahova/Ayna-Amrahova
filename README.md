@@ -8,9 +8,11 @@ I'm always trying to grow and learn something new.
 
 2016 - 2020: BSc in Information and Telecommunications Technology, AzTU
 
+<br> 
 
 ⚡ Fun fact: I am a programmer, and I have no life
 
+<br>
 
  🔧 Technologies & Tools
 
@@ -19,10 +21,7 @@ I'm always trying to grow and learn something new.
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=for-the-badge&logo=IntelliJ-idea&logoColor=white&color=2bbc8a)
 
-
-
-
-
+<br>
 
  💌 Connect with me:
 
