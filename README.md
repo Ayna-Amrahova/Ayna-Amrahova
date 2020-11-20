@@ -10,7 +10,7 @@ My name is Ayna Amrahova and I'm a Junior Software Developer based in Azerbaijan
 Take a look to my resume:
 https://github.com/Ayna-Amrahova/MyResume-PDF/blob/main/Ayna_Amrahova_Resume.pdf
 
-<br>
+<br><br>
 
  🔧 Technologies & Tools
 
