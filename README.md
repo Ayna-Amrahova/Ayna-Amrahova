@@ -19,4 +19,6 @@ I'm always trying to grow and learn something new.
 
 
 ![](https://img.shields.io/badge/Linkedin-social-informational?style=social&logo=linkedin&logoColor=blue&color=2bbc8a)
-![](https://img.shields.io/badge/Facebook-social-informational?style=social&logo=facebook&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/Facebook-https://www.facebook.com/ayna.amrahova.14/-informational?style=social&logo=facebook&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/Instagram-social-informational?style=social&logo=instagram&logoColor=blue&color=2bbc8a)
+
