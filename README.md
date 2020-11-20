@@ -30,4 +30,6 @@ My name is Ayna Amrahova and I'm a Junior Software Developer based in Azerbaijan
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ayna-Amrahova)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayna-Amrahova)](https://github.com/Ayna-Amrahova/github-readme-stats)
+
 
