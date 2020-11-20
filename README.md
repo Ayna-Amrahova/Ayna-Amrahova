@@ -4,10 +4,13 @@ My name is Ayna Amrahova and I'm a Junior Software Developer based in Azerbaijan
 
 I'm always trying to grow and learn something new.
 
+<br>
+
 2016 - 2020: BSc in Information and Telecommunications Technology, AzTU
 
 
-- ⚡ Fun fact: I am a programmer, and I have no life
+⚡ Fun fact: I am a programmer, and I have no life
+
 
  🔧 Technologies & Tools
 
