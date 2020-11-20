@@ -19,13 +19,4 @@ I'm always trying to grow and learn something new.
 
 
 Connect with me:
-
-<!-- Icons -->
-https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-32x32.png
-
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.facebook.com/ayna.amrahova.14/
-[1]: https://www.linkedin.com/in/ayna-amrahova-004319194/
+<a class="icon-facebook social-button grey" href="https://www.facebook.com/ayna.amrahova.14/"></a>
