@@ -12,4 +12,4 @@ I'm always trying to grow and learn something new.
 ![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ IDEA,Eclipse-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ IDEA-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
