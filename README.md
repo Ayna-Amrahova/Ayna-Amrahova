@@ -9,4 +9,7 @@ I'm always trying to grow and learn something new.
 - ⚡ Fun fact: I am a programmer, and I have no life
 
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ IDEA, Eclipse-informational?style=flat&logo=appveyor&logoColor=white&color=2bbc8a)
