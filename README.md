@@ -28,7 +28,7 @@ My name is Ayna Amrahova and I'm a Junior Software Developer based in Azerbaijan
 [2]: https://www.facebook.com/ayna.amrahova.14/
 [3]: https://www.linkedin.com/in/ayna-amrahova-004319194/
 
-![Ayna's github stats](https://github-readme-stats.vercel.app/api?username=Ayna-Amrahova&theme=dark&show_icons=true)
+![Ayna's github stats](https://github-readme-stats.vercel.app/api?username=Ayna-Amrahova&theme=vue-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayna-Amrahova)](https://github.com/Ayna-Amrahova/github-readme-stats)
 
