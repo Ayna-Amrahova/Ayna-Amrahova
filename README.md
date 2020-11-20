@@ -18,16 +18,13 @@ I'm always trying to grow and learn something new.
 
 
 
-<!-- Actual text -->
-
-You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][3].
+Connect with me:
 
 <!-- Icons -->
 
-[1.2]: https://www.flaticon.com/free-icon/linkedin_174857 (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.facebook.com/ayna.amrahova.14/
-[2]: https://www.linkedin.com/in/ayna-amrahova-004319194/
+[2]: https://www.facebook.com/ayna.amrahova.14/
+[1]: https://www.linkedin.com/in/ayna-amrahova-004319194/
