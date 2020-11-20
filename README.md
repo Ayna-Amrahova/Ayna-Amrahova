@@ -14,3 +14,8 @@ I'm always trying to grow and learn something new.
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=IntelliJ-idea&logoColor=white&color=2bbc8a)
+
+
+
+
+![](https://img.shields.io/badge/Linkedin-social-informational?style=social&logo=linkedin&logoColor=white&color=2bbc8a)
