@@ -18,6 +18,7 @@ https://github.com/Ayna-Amrahova/MyResume-PDF/blob/main/Ayna-Amrahova.Resume.pdf
 ![](https://img.shields.io/badge/Framework-Spring-informational?style=for-the-badge&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=for-the-badge&logo=IntelliJ-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-NetBeans-informational?style=for-the-badge&logo=NetBeans-idea&logoColor=white&color=2bbc8a)
 
 <br>
 
