@@ -4,7 +4,7 @@ My name is Ayna Amrahova and I'm a Junior Software Developer based in Azerbaijan
 
 <br>
 
-2016 - 2020: BSc in Information and Telecommunications Technology, AzTU
+2016 - 2020: BSc in Information and Communications Technology, AzTU
 
 <br>
 Take a look to my resume:
