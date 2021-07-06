@@ -30,7 +30,7 @@ https://github.com/Ayna-Amrahova/MyResume-PDF/blob/main/Ayna-Amrahova.Resume.pdf
 
 [1]: http://www.github.com/Ayna-Amrahova
 [2]: https://www.facebook.com/ayna.amrahova.14/
-[3]: https://www.linkedin.com/in/ayna-amrahova-004319194/
+[3]: https://www.linkedin.com/in/ayna-amrahova/
 
 ![Ayna's github stats](https://github-readme-stats.vercel.app/api?username=Ayna-Amrahova&theme=vue-dark&show_icons=true)
 
