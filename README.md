@@ -1,6 +1,6 @@
 ### Hey, everyone! 👋🏻
 
-My name is Ayna Amrahova and I'm a Junior Software Developer based in Azerbaijan, Baku. I'm always trying to grow and learn something new. I love to develop 💚
+My name is Ayna Amrah and I'm a Software Developer based in Azerbaijan, Baku. I'm always trying to grow and learn something new. I love to develop 💚
 
 <br>
 
